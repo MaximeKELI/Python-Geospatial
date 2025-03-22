@@ -139,14 +139,14 @@ How to Run the Project
     Clone the repository or set up the project structure as described above.
 
     Install the required dependencies:
-    bash
-    Copy
+    
+    
 
     pip install -r requirements.txt
 
     Run the Streamlit application:
-    bash
-    Copy
+    
+    
 
     streamlit run projet_carte_temps_reel/main.py
 
