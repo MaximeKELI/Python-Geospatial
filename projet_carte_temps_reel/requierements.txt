@@ -2,3 +2,14 @@ folium
 pandas
 streamlit
 streamlit-folium
+geopandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+requests
+python-dotenv
+elevation
+rasterio
+shapely
+geopy
